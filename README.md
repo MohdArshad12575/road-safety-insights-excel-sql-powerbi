@@ -2,6 +2,11 @@
 
 This project presents a comprehensive analysis of road casualties and accidents using the ESP stack — **Excel**, **SQL**, and **Power BI**. It includes data cleaning, exploratory data analysis (EDA), trend visualization, and dashboard creation to highlight key patterns and metrics in road safety across different locations and timeframes.
 
+## 📂 Project Files & Resources
+
+All project datasets, SQL queries, and Power BI dashboards are available here:  
+🔗 [Access Project Files on Google Drive](https://drive.google.com/drive/folders/1LX8At-yWb4MDFDYuhgC_Htbm2Qgfk_Kl?usp=sharing)
+
 ---
 ## 📷 Dashboard Snapshots
 
